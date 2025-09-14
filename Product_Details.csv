@@ -1,0 +1,101 @@
+product_id,product_name,category,price,stock
+106,Tablet,Electronics,one hundred,200
+101,Keyboard,Accessories,fifty,100
+108,Keyboard,Accessories,fifty,500
+104,Speaker,Electronics,500,150
+107,Speaker,Electronics,fifty,300
+104,Tablet,Accessories,nan,500
+109,Mouse,Accessories,nan,500
+109,Keyboard,Electronics,fifty,
+102,Charger,Electronics,25,500
+106,Keyboard,Accessories,fifty,200
+102,Mouse,Electronics,40,150
+104,Keyboard,Accessories,200,
+105,Monitor,Accessories,200,50
+107,Mouse,Accessories,300,
+110,Keyboard,Electronics,150,50
+110,Speaker,Accessories,200,
+105,Mouse,Electronics,25,
+109,Charger,Accessories,one hundred,300
+110,Tablet,Electronics,fifty,500
+104,Charger,Accessories,300,100
+103,Monitor,Electronics,500,100
+110,Monitor,Electronics,500,
+107,Mouse,Accessories,300,150
+110,Tablet,Electronics,fifty,150
+109,Keyboard,Electronics,fifty,
+107,Monitor,Accessories,200,50
+107,Mouse,Accessories,200,50
+110,Keyboard,Electronics,fifty,300
+103,Tablet,Electronics,one hundred,200
+110,Laptop,Electronics,one hundred,
+101,Camera,Electronics,150,50
+104,Laptop,Electronics,nan,100
+102,Monitor,Electronics,fifty,50
+109,Smartphone,Accessories,200,300
+108,Headphones,Electronics,one hundred,
+110,Keyboard,Accessories,fifty,100
+106,Monitor,Accessories,500,200
+103,Tablet,Electronics,300,200
+106,Tablet,Electronics,300,50
+107,Tablet,Accessories,150,500
+101,Tablet,Electronics,nan,150
+107,Tablet,Electronics,40,200
+108,Camera,Electronics,25,200
+105,Tablet,Electronics,nan,300
+103,Mouse,Electronics,40,50
+106,Smartphone,Electronics,one hundred,500
+105,Speaker,Accessories,40,300
+104,Headphones,Electronics,fifty,
+108,Laptop,Electronics,one hundred,150
+102,Smartphone,Electronics,200,50
+110,Headphones,Accessories,25,
+101,Mouse,Electronics,fifty,
+107,Camera,Electronics,one hundred,100
+107,Tablet,Electronics,300,200
+109,Tablet,Electronics,150,300
+107,Monitor,Electronics,500,500
+110,Monitor,Accessories,500,500
+102,Headphones,Electronics,one hundred,
+107,Headphones,Accessories,nan,50
+104,Headphones,Electronics,200,100
+110,Laptop,Electronics,one hundred,500
+109,Tablet,Electronics,150,
+107,Tablet,Accessories,300,150
+110,Charger,Electronics,40,100
+109,Mouse,Accessories,nan,200
+103,Keyboard,Accessories,500,
+102,Laptop,Accessories,300,
+109,Smartphone,Electronics,one hundred,
+105,Mouse,Accessories,200,150
+110,Laptop,Electronics,fifty,150
+107,Smartphone,Accessories,40,50
+104,Speaker,Accessories,fifty,200
+102,Charger,Accessories,40,500
+103,Keyboard,Accessories,200,50
+106,Monitor,Accessories,500,100
+103,Mouse,Electronics,40,300
+103,Keyboard,Accessories,25,300
+103,Headphones,Electronics,300,
+105,Tablet,Electronics,40,100
+104,Smartphone,Electronics,one hundred,150
+109,Mouse,Electronics,25,300
+109,Charger,Accessories,300,150
+101,Mouse,Accessories,one hundred,100
+102,Charger,Accessories,500,500
+101,Charger,Accessories,200,200
+102,Charger,Accessories,40,150
+110,Speaker,Electronics,fifty,200
+102,Laptop,Electronics,one hundred,200
+103,Speaker,Accessories,fifty,500
+107,Laptop,Accessories,500,500
+109,Laptop,Accessories,fifty,50
+108,Monitor,Electronics,150,200
+105,Charger,Accessories,500,50
+109,Laptop,Electronics,nan,100
+105,Charger,Electronics,40,300
+109,Monitor,Accessories,300,50
+101,Camera,Electronics,25,300
+110,Camera,Electronics,500,200
+107,Speaker,Accessories,fifty,500
+109,Charger,Accessories,300,

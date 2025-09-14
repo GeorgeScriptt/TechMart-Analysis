@@ -1,0 +1,101 @@
+employee_id,role,store_location,sales_performance
+1,Cashier,New York,nan
+2,Cashier,Los Angeles,3000
+3,Supervisor,Phoenix,nan
+4,Manager,Chicago,3000
+5,Manager,Phoenix,3000
+6,Sales Associate,Paris,3000
+7,Sales Associate,New York,2000
+8,Cashier,London,3000
+9,Cashier,Chicago,2000
+10,Supervisor,Houston,1000
+11,Sales Associate,Paris,2000
+12,Sales Associate,Paris,3000
+13,Sales Associate,New York,3000
+14,Manager,London,five thousand
+15,Manager,Los Angeles,five thousand
+16,Supervisor,Los Angeles,3000
+17,Sales Associate,Chicago,five thousand
+18,Sales Associate,London,3000
+19,Cashier,Phoenix,3000
+20,Cashier,London,five thousand
+21,Manager,Los Angeles,1000
+22,Sales Associate,Los Angeles,2000
+23,Manager,Paris,2000
+24,Sales Associate,Houston,five thousand
+25,Manager,Los Angeles,five thousand
+26,Manager,New York,nan
+27,Supervisor,Chicago,five thousand
+28,Cashier,New York,2000
+29,Cashier,New York,five thousand
+30,Supervisor,London,3000
+31,Cashier,New York,five thousand
+32,Sales Associate,Los Angeles,1000
+33,Manager,Paris,1000
+34,Manager,London,five thousand
+35,Sales Associate,Los Angeles,nan
+36,Manager,Chicago,five thousand
+37,Cashier,London,nan
+38,Supervisor,New York,five thousand
+39,Manager,New York,1000
+40,Supervisor,Paris,five thousand
+41,Manager,London,3000
+42,Cashier,New York,2000
+43,Cashier,Phoenix,2000
+44,Supervisor,Houston,2000
+45,Manager,Houston,nan
+46,Sales Associate,Los Angeles,nan
+47,Cashier,Houston,1000
+48,Manager,London,five thousand
+49,Sales Associate,Houston,five thousand
+50,Manager,London,3000
+51,Cashier,Phoenix,five thousand
+52,Cashier,Phoenix,3000
+53,Manager,Phoenix,five thousand
+54,Manager,New York,1000
+55,Manager,Los Angeles,five thousand
+56,Sales Associate,London,3000
+57,Manager,Phoenix,3000
+58,Sales Associate,Chicago,five thousand
+59,Sales Associate,Houston,five thousand
+60,Supervisor,Phoenix,3000
+61,Sales Associate,London,2000
+62,Manager,Houston,1000
+63,Supervisor,Phoenix,3000
+64,Supervisor,New York,five thousand
+65,Manager,Paris,1000
+66,Sales Associate,Los Angeles,2000
+67,Cashier,Phoenix,five thousand
+68,Cashier,Los Angeles,nan
+69,Manager,London,nan
+70,Supervisor,Los Angeles,2000
+71,Sales Associate,New York,2000
+72,Manager,Paris,five thousand
+73,Sales Associate,Houston,1000
+74,Sales Associate,New York,3000
+75,Sales Associate,Phoenix,3000
+76,Cashier,Los Angeles,nan
+77,Supervisor,New York,2000
+78,Sales Associate,Chicago,five thousand
+79,Manager,Paris,1000
+80,Manager,Houston,1000
+81,Supervisor,Los Angeles,2000
+82,Sales Associate,Los Angeles,1000
+83,Sales Associate,London,3000
+84,Supervisor,Los Angeles,nan
+85,Supervisor,Phoenix,five thousand
+86,Cashier,London,1000
+87,Supervisor,Los Angeles,3000
+88,Cashier,New York,3000
+89,Manager,Houston,1000
+90,Manager,Phoenix,3000
+91,Manager,Phoenix,3000
+92,Cashier,New York,2000
+93,Sales Associate,Houston,3000
+94,Supervisor,Phoenix,1000
+95,Manager,Chicago,1000
+96,Manager,Phoenix,3000
+97,Manager,London,1000
+98,Manager,New York,2000
+99,Sales Associate,Paris,3000
+100,Supervisor,New York,3000

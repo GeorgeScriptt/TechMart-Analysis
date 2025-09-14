@@ -1,0 +1,101 @@
+customer_id,age,gender,location,loyalty_program
+1,35,F,San Antonio,
+2,50,M,London,No
+3,37,M,Austin,No
+4,nan,M,San Antonio,
+5,28,M,San Antonio,
+6,25,M,Los Angeles,Yes
+7,43,F,New York,Yes
+8,N/A,M,San Jose,No
+9,42,M,Paris,No
+10,41,F,Austin,
+11,40,M,Austin,No
+12,37,M,San Antonio,Yes
+13,37,F,London,
+14,nan,F,San Antonio,No
+15,30,F,Houston,Yes
+16,22,M,New York,
+17,35,M,San Antonio,
+18,thirty-five,M,Chicago,No
+19,20,M,San Antonio,Yes
+20,41,F,Phoenix,Yes
+21,20,M,Los Angeles,Yes
+22,55,F,San Antonio,No
+23,35,F,Paris,Yes
+24,42,F,Houston,Yes
+25,22,M,Los Angeles,
+26,43,M,Houston,No
+27,50,M,Houston,
+28,40,F,London,No
+29,22,M,Chicago,Yes
+30,22,F,Paris,Yes
+31,55,M,San Jose,
+32,N/A,M,Paris,
+33,25,F,London,
+34,42,F,Phoenix,
+35,42,M,Los Angeles,Yes
+36,40,F,London,Yes
+37,55,F,Chicago,
+38,55,F,San Antonio,No
+39,35,F,San Antonio,
+40,42,F,Chicago,Yes
+41,22,M,Houston,
+42,25,M,New York,Yes
+43,55,M,Houston,No
+44,50,M,Los Angeles,Yes
+45,41,F,San Antonio,
+46,20,F,Phoenix,No
+47,50,F,Chicago,Yes
+48,30,F,London,
+49,42,F,Chicago,No
+50,22,F,Los Angeles,No
+51,43,F,San Antonio,
+52,30,F,Los Angeles,
+53,55,M,Chicago,
+54,25,M,Chicago,Yes
+55,40,F,San Jose,
+56,41,F,Chicago,
+57,42,M,Austin,No
+58,thirty-five,M,London,No
+59,42,M,Chicago,No
+60,22,M,London,Yes
+61,41,F,San Antonio,No
+62,41,F,Paris,No
+63,thirty-five,M,Chicago,No
+64,55,F,New York,
+65,nan,M,Houston,
+66,25,M,New York,Yes
+67,22,M,Los Angeles,No
+68,55,M,San Jose,Yes
+69,22,F,Chicago,
+70,55,M,Phoenix,Yes
+71,22,F,San Jose,
+72,40,M,New York,No
+73,30,M,Austin,Yes
+74,N/A,F,Chicago,Yes
+75,N/A,F,Austin,
+76,nan,F,San Jose,No
+77,35,M,Los Angeles,Yes
+78,thirty-five,M,Phoenix,Yes
+79,30,M,Austin,Yes
+80,nan,F,Chicago,Yes
+81,50,M,Paris,No
+82,30,F,Chicago,Yes
+83,35,M,Chicago,Yes
+84,55,M,New York,
+85,25,F,Chicago,No
+86,25,M,Houston,Yes
+87,N/A,F,Chicago,No
+88,25,F,Houston,Yes
+89,37,M,Chicago,
+90,20,F,Houston,No
+91,22,F,Houston,
+92,55,M,New York,No
+93,28,M,Los Angeles,
+94,nan,F,Houston,No
+95,37,M,Chicago,No
+96,nan,F,Paris,Yes
+97,55,M,Houston,
+98,43,F,San Antonio,
+99,55,F,Austin,No
+100,40,F,London,
